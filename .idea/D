@@ -1,4 +1,0 @@
-public static void (){
-        Map map=new HashMap();
-        map.put("11",11)
-}
